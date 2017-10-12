@@ -7,3 +7,4 @@ if (flavor == "chocolate" || flavor == "vanilla"){
 	}else{
 		alert("thats not a flavor");
 	}
+//Hello
